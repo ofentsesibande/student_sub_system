@@ -1,0 +1,12 @@
+  500  git clone git@github.com:ofentsesibande/student_sub_system.git
+  501  git clone https://github.com/ofentsesibande/student_sub_system.git
+  502  cd student_sub_system
+  503  code student_sub_system
+  504  touch index.html
+  505  touch about.html
+  506  touch history.txt
+  507  ls
+  508  git add.
+  509  git add .
+  510  git commit -m "Created about, index and history files"
+  511  history
